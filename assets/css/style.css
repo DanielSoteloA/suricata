@@ -1,0 +1,15 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bg-pink{
+    background-color: #E83E8C;
+}
+
+.bg-blue{
+    background-color: #17A2B8;
+}
+
+footer img{
+    height: 6.25rem;
+}
